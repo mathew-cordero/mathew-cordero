@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Mathew Cordero</h1>
-<h3 align="center">Soun desarrollador de aplicaciones moviles y de escritorio.</h3>
+<h3 align="center">Soy un desarrollador de aplicaciones moviles y de escritorio.</h3>
 
 - 🔭 Estoy trabajando en **Nor Oriente Express**
 
