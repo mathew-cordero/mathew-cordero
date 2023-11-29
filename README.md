@@ -3,7 +3,7 @@
 
 - 🔭 Estoy trabajando en **Nor Oriente Express**
 
-- 💬 Preguntame sobre **java,kotlin,jetpack compose, android studio**
+- 💬 Preguntame sobre **java,kotlin,jetpack compose, android studio, c# y .NET**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
